@@ -9,35 +9,39 @@
 
 🚀 Transforming ideas into cutting-edge solutions | Expertise in Python, Django, PHP, Laravel, JavaScript, React | Collaborator in agile environments - (Currently Learning **Laravel & Ruby on Rails**)
 
-🌟 Recognized for: Developing innovative software solutions, including an Asset Management System for [ZEGA Ltd](https://www.zegaltd.co.zm/), a Road Damage Detection System utilizing machine learning, an E-commerce Platform, and a Weather Web Application accessible at[Weather](https://weatherbit-weather-app.tiiny.io/). | Skilled in optimizing workflows through automation and system integration.
-
-💡 Distinguished as the top [Opensource External contributor](https://gitlab.com/doublegdp/app/-/issues/2506) to the pioneering **US$1.5 billion** [Smart City](https://chartercitiesinstitute.org/nkwashi) project's OS Software - developed by [DoubleGDP](https://doublegdp.com/). Made significant contributions to the project's success, providing noteworthy and feasible [feature suggestions](https://gitlab.com/doublegdp/handbook/-/blob/master/docs/product/04-prod-communications.md#feature-requests-bugs).
-
-🫂 Passionate about mentoring junior developers and empowering underserved communities | Founder of [Compound Code NGO](https://facebook.com/compoundcode) and **Community Lead** at [Meta Developer Circles](https://developers.facebook.com/developer circles/) - [Lusaka](https://web.facebook.com/groups/DevCLusaka).
+🌟 Recognized for: Developing innovative software solutions, including an Asset Management System for [ZEGA Ltd](https://www.zegaltd.co.zm/), a Road Damage Detection System utilizing machine learning, an E-commerce Platform, and a Weather Web Application accessible at [Weather Web App](https://weatherbit-weather-app.tiiny.io/). m|  Skilled in optimizing workflows through automation and system integration.
 
 ✨ Micro verse-certified remote Full-Stack Web Developer | Proficient in SQL, Ruby, Redux, Google Cloud, and more
 
 💼 Let's create the future together! Open to exciting opportunities that value innovation, teamwork, and making a positive impact.
 
-> 🌐 Portfolio: [https://blessedjasonmwanza.tech](https://blessedjasonmwanza.tech) | 
-📧 LinkedIn: [https://linkedin.com/in/blessedjasonmwanza](https://linkedin.com/in/blessedjasonmwanza)
+> 🌐 Portfolio: [https://chanda-m-chimfwembe.netlify.app/](https://chanda-m-chimfwembe.netlify.app/)
+> 📧 LinkedIn: [https://www.linkedin.com/in/chanda-m-chimfwembe-931a57291/](https://www.linkedin.com/in/chanda-m-chimfwembe-931a57291/)
 
 
 
 
 <h2> 👨🏻‍💻 &nbsp; More about me: </h2> 
 
-- 🔭 Previously at [Stickee](https://stickee.co.uk) and graduate student from [Micro verse Inc](https://www.microverse.org/?grsf=kvpb2j) -  studied Full-Stack Web Development ```(Ruby, Ruby on Rails, JavaScript, ReactJS, PostgreSQL, HTML & CSS)```
+- 🔭 Previously at [ZCAS University](https://zcasu.edu.zm/) and graduate student from [Mulungushi University](https://www.mu.ac.zm/) -  studied Computer Science ```(Object-Oriented Programming, Data Structures and Algorithms, IOT, Artificial Intelligence, Databases ...)```
 
 ### Personal Projects
 
 📄 Enough talk - let the code speak. 🤠 So far, and in addition to private projects (_that might not show up here_ 🤓), I build and run;
 
-  >   - **Mobile Money Payments API in Africa** - checkout [MoneyUnify](https://moneyunify.com) or go directly to [Documentation](https://github.com/blessedjasonmwanza/MoneyUnify)
+  >   -Here’s your achievements section updated with links formatted according to GitHub standards:
 
-  > - A robust financial accounting and business management workspace cloud solution for Microfinance and loan servicing businesses (built from scratch) - [**BraveLender Software**](https://bravelender.com).
-  > -  A peer-to-peer **FinTech application** solution connecting thousands of people [in Africa](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-africa/) to nearby lenders & Microfinance services (Built from scratch with ```ReactJS, PHP, SQL HTML & CSS```)  - 😃 [Afrilending Platform](https://afrilending.com)
-  > - During High-school, I Built **AlomoSystem**  [An Advanced loan automation cloud software from scratch](https://bongohive.co.zm/startup-spotlight-alomo-system/).  - [See Video interview by Facebook team](https://www.youtube.com/watch?v=Nb9OnWp1pjE) . 
+---
+
+📄 Enough talk - let the code speak. 🤠 So far, and in addition to private projects (_that might not show up here_ 🤓), I build and run:
+
+> - **Asset Management System for ZEGA Ltd.** 🏢 - Developed using PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL as the database management system. This system efficiently manages assets by tracking location, maintenance schedules, and lifecycles, ensuring better organization and reducing mismanagement. [View on GitHub](https://github.com/yourusername/asset-management-system) 
+
+> - **Road Damage Detection System** 🛣️ - An award-winning project leveraging machine learning algorithms in Python to detect road damage from images. A mobile app developed in Java allows users to capture and upload road images, which are analyzed to classify and predict damage types, improving road maintenance and safety. [View on GitHub](https://github.com/yourusername/road-damage-detection)
+
+> - **E-commerce Website for Apple Sells** 🍏 - Created as part of coursework, this e-commerce platform for selling Apple products uses PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL for database management. It features product browsing, a shopping cart, and order management. [View on GitHub](https://github.com/yourusername/e-commerce-apple-sells)
+
+> - **Web App Weather Application** ☁️ - Built using PHP for handling API requests and Pure HTML5, CSS3, and JavaScript for the front end. This application fetches and displays real-time weather data for various locations, allowing users to search for worldwide weather conditions. The app can be accessed online at [weatherbit-weather-app.tiiny.io](https://weatherbit-weather-app.tiiny.io) and is available on GitHub [here](https://github.com/yourusername/weather-app).
 
 - 👯  ```Would you prefer a collaborative approach, either with you or with your team? Please don't hesitate to contact me. I possess a strong commitment to continuous learning and I am receptive to receiving guidance and suggestions.```
 
