@@ -4,12 +4,12 @@
 
 <h1 align="center">Hi 👋 , I am Chanda Martin Chimfwembe</h1>
 
-> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Engenerer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover | Stock Market Enthusiast</p>
+> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Engenerer | Entrepreneur | Tech Enthusiast | Mentor | Stock Market Enthusiast</p>
 
 
 🚀 Transforming ideas into cutting-edge solutions | Expertise in Python, Django, PHP, Laravel, JavaScript, React | Collaborator in agile environments - (Currently Learning **Laravel & Ruby on Rails**)
 
-🌟 Recognized for [building startups](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-Africa/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
+🌟 Recognized for: Developing innovative software solutions, including an Asset Management System for [ZEGA Ltd](https://www.zegaltd.co.zm/), a Road Damage Detection System utilizing machine learning, an E-commerce Platform, and a Weather Web Application accessible at[Weather](https://weatherbit-weather-app.tiiny.io/). | Skilled in optimizing workflows through automation and system integration.
 
 💡 Distinguished as the top [Opensource External contributor](https://gitlab.com/doublegdp/app/-/issues/2506) to the pioneering **US$1.5 billion** [Smart City](https://chartercitiesinstitute.org/nkwashi) project's OS Software - developed by [DoubleGDP](https://doublegdp.com/). Made significant contributions to the project's success, providing noteworthy and feasible [feature suggestions](https://gitlab.com/doublegdp/handbook/-/blob/master/docs/product/04-prod-communications.md#feature-requests-bugs).
 
