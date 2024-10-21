@@ -2,12 +2,12 @@
 
 <p align="center"><img src="languages-header.png"></p>
 
-<h1 align="center">Hi :wave:  , I am Blessed Jason Mwanza </h1>
+<h1 align="center">Hi 👋 , I am Chanda Martin Chimfwembe</h1>
 
-> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Developer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover </p>
+> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Engenerer | Entrepreneur | Tech Enthusiast | Mentor | Fintech Lover | Stock Market Enthusiast</p>
 
 
-🚀 Transforming ideas into cutting-edge solutions | Expertise in PHP, Laravel, JavaScript, React, jQuery, and Ruby on Rails | Collaborator in agile environments - (Currently Learning **Golang**)
+🚀 Transforming ideas into cutting-edge solutions | Expertise in Python, Django, PHP, Laravel, JavaScript, React | Collaborator in agile environments - (Currently Learning **Laravel & Ruby on Rails**)
 
 🌟 Recognized for [building startups](https://vandvmagazine.com/afrilending-the-future-of-lending-money-in-Africa/), [automating processes](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a), and integrating payment systems | [UNCDF-selected top 10 FinTech](https://www.uncdf.org/article/6136/ten-fintechs-join-the-sophomore-class-of-the-fintech4u-accelerator-programme-in-zambia) technology creator
 
