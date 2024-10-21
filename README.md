@@ -94,7 +94,7 @@
 <!--   <summary>
     📈 Click here to view stats
   </summary> -->
-  <p align="center"><b>Visitor's Count from Oct 10, 2021</b></p>
+  <p align="center"><b>Visitor's Count from Dec, 2022</b></p>
   <p align="center"><img src="https://profile-counter.glitch.me/%7Bblessedjasonmwanza%7D/count.svg" alt="visitor badge"/></p>
 
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=blessedjasonmwanza&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Weekly%20wakatime%20stats"></p>
