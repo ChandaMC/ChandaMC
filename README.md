@@ -142,7 +142,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanda-m-chimfwembe-931a57291/"><img src="https://img.shields.io/badge/chanda-m-chimfwembe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chanda-m-chimfwembe-931a57291/"><img src="https://img.shields.io/badge/chandamartinchimfwembe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:chandamartin187@gmail.com"><img src="https://img.shields.io/badge/-chandamartin187@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://x.com/ChandaCMartin1"><img src="https://img.shields.io/badge/-ChandaCMartin1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://medium.com/@chandamartin187"><img src="https://img.shields.io/badge/-@chandamartin187-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
