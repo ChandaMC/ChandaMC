@@ -35,13 +35,13 @@
 
 📄 Enough talk - let the code speak. 🤠 So far, and in addition to private projects (_that might not show up here_ 🤓), I build and run:
 
-> - **Asset Management System for ZEGA Ltd.** 🏢 - Developed using PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL as the database management system. This system efficiently manages assets by tracking location, maintenance schedules, and lifecycles, ensuring better organization and reducing mismanagement. [View on GitHub](https://github.com/yourusername/asset-management-system) 
+> - **Asset Management System for ZEGA Ltd.** 🏢 - Developed using PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL as the database management system. This system efficiently manages assets by tracking location, maintenance schedules, and lifecycles, ensuring better organization and reducing mismanagement. [View on GitHub](https://github.com/ChandaMC/ZEGA-Ltd.-Asset-Management) 
 
-> - **Road Damage Detection System** 🛣️ - An award-winning project leveraging machine learning algorithms in Python to detect road damage from images. A mobile app developed in Java allows users to capture and upload road images, which are analyzed to classify and predict damage types, improving road maintenance and safety. [View on GitHub](https://github.com/yourusername/road-damage-detection)
+> - **Road Damage Detection System** 🛣️ - An award-winning project leveraging machine learning algorithms in Python to detect road damage from images. A mobile app developed in Java allows users to capture and upload road images, which are analyzed to classify and predict damage types, improving road maintenance and safety. [View on GitHub](https://github.com/ChandaMC/Road-Damage-Detection-Final-Year-Project)
 
-> - **E-commerce Website for Apple Sells** 🍏 - Created as part of coursework, this e-commerce platform for selling Apple products uses PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL for database management. It features product browsing, a shopping cart, and order management. [View on GitHub](https://github.com/yourusername/e-commerce-apple-sells)
+> - **E-commerce Website for Apple Sells** 🍏 - Created as part of coursework, this e-commerce platform for selling Apple products uses PHP and JavaScript (server side), HTML, CSS, and JavaScript (client side), with MySQL for database management. It features product browsing, a shopping cart, and order management. [View on GitHub](https://github.com/ChandaMC/ICT461_Web_Systems_Course_Work)
 
-> - **Web App Weather Application** ☁️ - Built using PHP for handling API requests and Pure HTML5, CSS3, and JavaScript for the front end. This application fetches and displays real-time weather data for various locations, allowing users to search for worldwide weather conditions. The app can be accessed online at [weatherbit-weather-app.tiiny.io](https://weatherbit-weather-app.tiiny.io) and is available on GitHub [here](https://github.com/yourusername/weather-app).
+> - **Web App Weather Application** ☁️ - Built using PHP for handling API requests and Pure HTML5, CSS3, and JavaScript for the front end. This application fetches and displays real-time weather data for various locations, allowing users to search for worldwide weather conditions. The app can be accessed online at [weatherbit-weather-app.tiiny.io](https://weatherbit-weather-app.tiiny.io) and is available on GitHub [here](https://github.com/ChandaMC/API_Calls).
 
 - 👯  ```Would you prefer a collaborative approach, either with you or with your team? Please don't hesitate to contact me. I possess a strong commitment to continuous learning and I am receptive to receiving guidance and suggestions.```
 
@@ -86,8 +86,8 @@
 <br>
 
 <h2 align="center"> 📈  &nbsp;My GitHub Stats Summery 😍 
-  <a title="Total time coded since Nov 8 2021"
-     href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Nov 8 2021" /></a>
+  <a title="Total time coded since Dec, 2022"
+     href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Dec, 2022" /></a>
 </h2>
 
 <!-- <details align="center"> -->
@@ -101,11 +101,15 @@
 
   <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=blessedjasonmwanza&theme=chartreuse-dark"></p>
   <br>
+  
 <!-- </details> -->
 <!-- <details align="center"> -->
 <!--   <summary>
      📰  &nbsp; See Written & Featured articles
   </summary> -->
+
+  <!--
+  Chanda M. Chimfwembe commented this part out
   <h3  align="center"> Featured Articles </h3>
   
   - [Tech Mavericks: Revolutionizing the Digital Landscape](https://techconversations.medium.com/title-tech-mavericks-revolutionizing-the-digital-landscape-8a82c72835a)
@@ -132,7 +136,6 @@
 
 > <h3 align="center">Do you love taking intuitive approaches to solving problems? Lets connect!...</h3>
 
-
 <hr>
 
 #### 🤝🏻  &nbsp; I would love to build the future with you and your team. Reach out to me  already 🚀 - below are my contact details ;
@@ -146,7 +149,7 @@
 <a href="https://medium.com/@mwanzabj"><img src="https://img.shields.io/badge/-@mwanzabj-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://instagram.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/blessedjasonmwanza"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCarmzp5wfUxvCGScIwJZNfg"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-cc0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<!--<a href="https://www.youtube.com/channel/UCarmzp5wfUxvCGScIwJZNfg"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-cc0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>>
 
 </p>
 
