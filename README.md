@@ -149,7 +149,11 @@
   <a href="https://web.facebook.com/profile.php?id=61554817541020"><img src="https://img.shields.io/badge/-Chanda%20%20Chimfwembe-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://wellfound.com/u/chanda-m-chimfwembe"><img src="https://img.shields.io/badge/-chanda%20m%20chimfwembe-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
   <a href="https://chanda-m-chimfwembe.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  <a href="https://app.slack.com/client/T05J7581J5S/C05J4NY0KH8"><img src="https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/Alternative-Web-5500/"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/17157990/chanda-m-chimfwembe"><img src="https://img.shields.io/badge/-StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
 </p>
+
      
 <hr>
  
