@@ -146,7 +146,7 @@
   <a href="mailto:chandamartin187@gmail.com"><img src="https://img.shields.io/badge/-chandamartin187@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://x.com/ChandaCMartin1"><img src="https://img.shields.io/badge/-ChandaCMartin1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://medium.com/@chandamartin187"><img src="https://img.shields.io/badge/-@chandamartin187-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://web.facebook.com/profile.php?id=61554817541020"><img src="https://img.shields.io/badge/-Chanda%20Martin%20Chimfwembe-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61554817541020"><img src="https://img.shields.io/badge/-Chanda%20%20Chimfwembe-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://wellfound.com/u/chanda-m-chimfwembe"><img src="https://img.shields.io/badge/-chanda%20m%20chimfwembe-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
   <a href="https://chanda-m-chimfwembe.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
