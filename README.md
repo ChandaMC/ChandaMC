@@ -142,17 +142,14 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/blessedjasonmwanza/"><img src="https://img.shields.io/badge/blessedjasonmwanza-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
- <a href="https://angel.co/u/blessedjasonmwanza"><img src="https://img.shields.io/badge/blessedjasonmwanza-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
-<a href="mailto:mwanzabj@gmail.com"><img src="https://img.shields.io/badge/-mwanzabj@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://medium.com/@mwanzabj"><img src="https://img.shields.io/badge/-@mwanzabj-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://instagram.com/mwanzabj"><img src="https://img.shields.io/badge/-mwanzabj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/blessedjasonmwanza"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<!--<a href="https://www.youtube.com/channel/UCarmzp5wfUxvCGScIwJZNfg"><img src="https://img.shields.io/badge/-Blessed%20Jason%20Mwanza-cc0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>>
-
+  <a href="https://www.linkedin.com/in/chanda-m-chimfwembe-931a57291/"><img src="https://img.shields.io/badge/chanda-m-chimfwembe-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:chandamartin187@gmail.com"><img src="https://img.shields.io/badge/-chandamartin187@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://x.com/ChandaCMartin1"><img src="https://img.shields.io/badge/-ChandaCMartin1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://medium.com/@chandamartin187"><img src="https://img.shields.io/badge/-@chandamartin187-3db399?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://web.facebook.com/profile.php?id=61554817541020"><img src="https://img.shields.io/badge/-Chanda%20Martin%20Chimfwembe-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://wellfound.com/u/chanda-m-chimfwembe"><img src="https://img.shields.io/badge/-chanda%20m%20chimfwembe-c3c3c3?style=for-the-badge&logo=Angellist&logoColor=black"/></a>
+  <a href="https://chanda-m-chimfwembe.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 </p>
-
      
 <hr>
  
