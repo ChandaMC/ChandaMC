@@ -23,7 +23,7 @@
 
 <h2> 👨🏻‍💻 &nbsp; More about me: </h2> 
 
-- 🔭 Previously at [ZCAS University](https://zcasu.edu.zm/) and graduate student from [Mulungushi University](https://www.mu.ac.zm/) -  studied Computer Science ```(Object-Oriented Programming, Data Structures and Algorithms, IOT, Artificial Intelligence, Databases ...)```
+- 🔭 Previously at [ZCAS University](https://zcasu.edu.zm/), now at [Madison Life Insurance](https://www.mlife.co.zm/) and graduate student from [Mulungushi University](https://www.mu.ac.zm/) -  studied Computer Science ```(Object-Oriented Programming, Data Structures and Algorithms, IOT, Artificial Intelligence, Databases ...)```
 
 ### Personal Projects
 
