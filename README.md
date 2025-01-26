@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋 , I am Chanda Martin Chimfwembe</h1>
 
-> ### <p align="center" width="150px">Simple guy | Innovative | Full-Stack Software Engenerer | Entrepreneur | Tech Enthusiast | Mentor | Stock Market Enthusiast</p>
+> ### <p align="center" width="150px">Simple guy | Innovative | Back-End Software Engenerer | Entrepreneur | Tech Enthusiast | Mentor | Stock Market Enthusiast</p>
 
 
 🚀 Transforming ideas into cutting-edge solutions | Expertise in Python, Django, PHP, Laravel, JavaScript, React | Collaborator in agile environments - (Currently Learning **Laravel & Ruby on Rails**)
@@ -87,7 +87,7 @@
 
 <h2 align="center"> 📈  &nbsp;My GitHub Stats Summery 😍 
   <a title="Total time coded since Dec, 2024"
-     href="https://wakatime.com/@chanda"><img src="[![wakatime](https://wakatime.com/badge/user/68dc3281-ba78-4868-9212-60a90e8bf4a7.svg)](https://wakatime.com/@68dc3281-ba78-4868-9212-60a90e8bf4a7)" alt="Total time coded since Dec, 2024" /></a>
+     href="https://wakatime.com/@chanda"><img src="https://wakatime.com/badge/user/68dc3281-ba78-4868-9212-60a90e8bf4a7.svg" alt="Total time coded since Dec, 2024" /></a>
 </h2>
 
 <!-- <details align="center"> -->
