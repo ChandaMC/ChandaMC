@@ -86,8 +86,8 @@
 <br>
 
 <h2 align="center"> 📈  &nbsp;My GitHub Stats Summery 😍 
-  <a title="Total time coded since Dec, 2022"
-     href="https://wakatime.com/@864184a7-6c2d-4518-bd00-febaed795ec4"><img src="https://wakatime.com/badge/user/864184a7-6c2d-4518-bd00-febaed795ec4.svg" alt="Total time coded since Dec, 2022" /></a>
+  <a title="Total time coded since Dec, 2024"
+     href="https://wakatime.com/@chanda"><img src="[![wakatime](https://wakatime.com/badge/user/68dc3281-ba78-4868-9212-60a90e8bf4a7.svg)](https://wakatime.com/@68dc3281-ba78-4868-9212-60a90e8bf4a7)" alt="Total time coded since Dec, 2024" /></a>
 </h2>
 
 <!-- <details align="center"> -->
@@ -129,7 +129,7 @@
   - [Programming in High School](https://dev.to/mwanzabj/programming-in-high-school-3iji)
   - [Introducing Progate To Cavendish University Zambia — The Awesome Experience /> ](https://dev.to/mwanzabj/progate-code-community-in-zambia-cavendish-university-14cd)
   
-<!-- </details> -->
+<!-- </details> -->N
 
 <hr>
 
